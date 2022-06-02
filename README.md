@@ -5,7 +5,7 @@
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace std::Loky 🏴‍☠️;
+using namespace std::Trunk 🏴‍☠️;
 
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
