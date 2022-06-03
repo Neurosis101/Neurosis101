@@ -63,11 +63,11 @@ int main() {
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/0xLoky?style=social" />
     </a>
-    <a href="https://twitter.com/0xLoky">
+    <a href="https://twitter.com/NullTrunk">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/0xLoky?style=social">
+             src="https://img.shields.io/twitter/follow/NullTrunk?style=social">
     </a>
     <a href="https://visitor-badge.glitch.me">
         <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=0xLoky.visitor-badge" />
+             src="https://visitor-badge.glitch.me/badge?page_id=NullTrunk.visitor-badge" />
     </a> </p>
