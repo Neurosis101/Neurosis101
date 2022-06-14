@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=NullTrunk%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Neurosis101%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/tBNG8Myd4f"><img align="right" src="https://discordapp.com/api/guilds/712028511124062259/widget.png?style=banner4"/></a>
 
